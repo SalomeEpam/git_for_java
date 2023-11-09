@@ -1,3 +1,6 @@
 Just some text for testing
 Add one more line for testing
 another line
+ more text for branches
+
+test for the conflict
