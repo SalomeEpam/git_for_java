@@ -7,3 +7,4 @@ another line
 test for the conflict
  for the feature
 
+for stashing
